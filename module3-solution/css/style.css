@@ -76,6 +76,19 @@ body {
   padding-right: 15px;
 }
 
+.row{
+	color: #332910;
+}
+
+.section{
+	background-color: #997F5F;
+	margin: 0 0 5px 0;
+}
+
+.text-center{
+	color:#332910;
+}
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #332910;
 }
